@@ -1,1 +1,2 @@
 # HMS
+Hotel Management System
